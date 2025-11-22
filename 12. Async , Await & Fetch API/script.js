@@ -27,6 +27,10 @@ data.then((v)=>{
 
 // 2. Using async/await
 
+// async function always returns a promise, other values are wrapped inside it automatically
+
+// await keyword makes JS wait until the promise settles and returns its value
+
 // async function getData(){
 	// // Simulating gettingData from a Server
 	// return new Promise((resolve, reject)=>{
