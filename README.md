@@ -1,4 +1,4 @@
-# Umair's JavaScript Learning Journey 👣
+# <img src="Assets/Icon/favicon.ico" width="36" alt="JS Logo" /> Umair's JavaScript Learning Journey 👣
 
 Hi everyone! I'm Umair Shakoor, and this repository is a place for me to document my progress as I learn JavaScript. I'm just starting out, so you'll find examples and exercises focused on the fundamentals of JS.  Think of this as my coding notebook!
 
@@ -21,7 +21,7 @@ This repo is all about the building blocks of JavaScript.  Right now, I'm explor
 ## How to Explore:
 
 1.  Clone the repository: `git clone https://github.com/unseenumair/js.git`
-2.  Navigate to the directory: `cd JS`
+2.  Navigate to the directory: `cd js`
 3.  Open the JavaScript files in your browser's developer console (usually by pressing F12) or run them using Node.js.  You can see the output of the code in the console.
 
 ## Learning Resources I'm Finding Helpful:
